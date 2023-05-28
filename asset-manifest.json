@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paintings-new-practice/static/css/main.7acaea2f.css",
+    "main.js": "/paintings-new-practice/static/js/main.07d3183d.js",
+    "index.html": "/paintings-new-practice/index.html",
+    "main.7acaea2f.css.map": "/paintings-new-practice/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/paintings-new-practice/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
